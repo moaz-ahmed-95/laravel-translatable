@@ -1,4 +1,4 @@
-# A trait to make Eloquent models translatable
+# A trait to make Eloquent models translatable Moaz
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/spatie/laravel-translatable.svg?style=flat-square)](https://packagist.org/packages/spatie/laravel-translatable)
 [![MIT Licensed](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
